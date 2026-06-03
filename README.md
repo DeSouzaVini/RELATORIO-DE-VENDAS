@@ -86,7 +86,3 @@ O projeto permite acompanhar indicadores de desempenho comercial, analisar o com
 ## 👨‍💻 Autor
 
 **Vinicius Souza Martins**
-
-Estudante de Ciência de Dados com foco em Análise de Dados, Business Intelligence, SQL, Python e Power BI.
-
-GitHub: https://github.com/DeSouzaVini

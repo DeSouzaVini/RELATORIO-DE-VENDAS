@@ -1,6 +1,6 @@
 # 📊 Relatório de Vendas - Power BI
 
-![Dashboard 1](https://raw.githubusercontent.com/DeSouzaVini/RELATORIO-DE-VENDAS/main/Imagens/Dashboard1.png)
+![Dashboard 1](Imagens/Dashboard(1).png)
 
 ## 📌 Sobre o Projeto
 
@@ -14,15 +14,14 @@ O projeto permite acompanhar indicadores de desempenho comercial, analisar o com
 
 ### Visão Geral
 
-![Dashboard 1](https://raw.githubusercontent.com/DeSouzaVini/RELATORIO-DE-VENDAS/main/Imagens/Dashboard1.png)
+![Dashboard 1](Imagens/Dashboard(1).png)
 
 ### Análise de Vendas
-
-![Dashboard 2](https://raw.githubusercontent.com/DeSouzaVini/RELATORIO-DE-VENDAS/main/Imagens/Dashboard2.png)
+![Dashboard 2](Imagens/Dashboard(2).png)
 
 ### Evolução das Vendas
 
-![Dashboard 3](https://raw.githubusercontent.com/DeSouzaVini/RELATORIO-DE-VENDAS/main/Imagens/Dashboard3.png)
+![Dashboard 3](Imagens/Dashboard(3).png)
 ---
 
 ## 📈 Indicadores Monitorados

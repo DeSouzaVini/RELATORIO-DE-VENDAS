@@ -1,6 +1,6 @@
 # 📊 Relatório de Vendas - Power BI
 
-![Dashboard 1](Imagens/Dashboard1.png)
+![Dashboard 3](Imagens/Dashboard3.png)
 
 ## 📌 Sobre o Projeto
 
@@ -13,14 +13,14 @@ O projeto permite acompanhar indicadores de desempenho comercial, analisar o com
 ## 📷 Dashboard
 
 ### Visão Geral
-![Dashboard 1](Imagens/Dashboard1.png)
+![Dashboard 1](Imagens/Dashboard3.png)
 
 ### Análise de Vendas
 ![Dashboard 2](Imagens/Dashboard2.png)
 
 ### Evolução das Vendas
 
-![Dashboard 3](Imagens/Dashboard3.png)
+![Dashboard 1](Imagens/Dashboard1.png)
 ---
 
 ## 📈 Indicadores Monitorados

@@ -1,6 +1,6 @@
 # 📊 Relatório de Vendas - Power BI
 
-![Dashboard 1](Imagens/Dashboard(1).png)
+[![Dashboard 1](Imagens/Dashboard(1).png)](https://github.com/DeSouzaVini/RELATORIO-DE-VENDAS/blob/main/Imagens/Dashboard%20(1).png)
 
 ## 📌 Sobre o Projeto
 
